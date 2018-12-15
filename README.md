@@ -1,6 +1,6 @@
 # docker-pigz
 
-Pigz running in an alpine linux [github](https://github.com/alpinelinux)|[https://www.alpinelinux.org](https://www.alpinelinux.org) container.
+Pigz running in an alpine linux ([github](https://github.com/alpinelinux)|[https://www.alpinelinux.org](https://www.alpinelinux.org)) container.
 
 ## Usage
 
